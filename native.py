@@ -8,20 +8,18 @@ class MyTestCase(unittest.TestCase):
     def setUp(self):
         desired_caps = {}
         desired_caps['platformName'] = 'Android'
-        desired_caps['platformVersion'] = '6.0.1'
-        desired_caps['deviceName'] = 'cfd5ac8a'
+        desired_caps['platformVersion'] = '7.0'
+        desired_caps['deviceName'] = 'b2aada47'
         desired_caps['appPackage'] = 'com.miui.calculator'
         desired_caps['appActivity'] = '.cal.CalculatorActivity'
         desired_caps["unicodeKeyboard"] = "True"
         desired_caps["resetKeyboard"] = "True"
         self.driver = webdriver.Remote(
             'http://localhost:4723/wd/hub', desired_caps)
+        # 初始化
+        print("开始执行测试用例")
 
-    # 释放实例,释放资源
-    def tearDown(self):
-        self.driver.quit()
-
-    #测试的脚本, LOVE原则
+             #测试的脚本, LOVE原则
     def testAdd(self):
         # Locate 定位一个元素
         number8 = self.driver.find_element_by_id("btn_8")
@@ -46,6 +44,15 @@ class MyTestCase(unittest.TestCase):
         value = result.text
         self.assertEqual(u"13", value)
         # Exception 处理异常的情况
+
+        print("正在执行测试用例……")
+
+    # 释放实例,释放资源
+    def tearDown(self):
+        print("测试结束")
+        self.driver.quit()
+
+   
 
 
 if __name__ == '__main__':

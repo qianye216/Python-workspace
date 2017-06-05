@@ -1,0 +1,263 @@
+:Monkey: seed=1496599416800 count=100
+:AllowPackage: com.yyw.cloudoffice
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Selecting main activities from category android.intent.category.LAUNCHER
+//   - NOT USING main activity com.android.browser.BrowserActivity (from package com.android.browser)
+//   - NOT USING main activity com.android.calendar.homepage.AllInOneActivity (from package com.android.calendar)
+//   - NOT USING main activity com.android.camera.Camera (from package com.android.camera)
+//   - NOT USING main activity com.android.contacts.activities.PeopleActivity (from package com.android.contacts)
+//   - NOT USING main activity com.android.contacts.activities.TwelveKeyDialer (from package com.android.contacts)
+//   - NOT USING main activity com.android.deskclock.DeskClockTabActivity (from package com.android.deskclock)
+//   - NOT USING main activity com.android.email.activity.Welcome (from package com.android.email)
+//   - NOT USING main activity com.android.fileexplorer.FileExplorerTabActivity (from package com.android.fileexplorer)
+//   - NOT USING main activity com.android.mms.ui.MmsTabActivity (from package com.android.mms)
+//   - NOT USING main activity com.android.settings.MainSettings (from package com.android.settings)
+//   - NOT USING main activity com.android.thememanager.ThemeResourceTabActivity (from package com.android.thememanager)
+//   - NOT USING main activity com.mipay.wallet.ui.MipayEntryActivity (from package com.mipay.wallet)
+//   - NOT USING main activity com.miui.calculator.cal.CalculatorActivity (from package com.miui.calculator)
+//   - NOT USING main activity com.miui.gallery.activity.HomePageActivity (from package com.miui.gallery)
+//   - NOT USING main activity com.miui.notes.ui.NotesListActivity (from package com.miui.notes)
+//   - NOT USING main activity com.miui.weather2.ActivityWeatherMain (from package com.miui.weather2)
+//   - NOT USING main activity com.xiaomi.market.ui.MarketTabActivity (from package com.xiaomi.market)
+//   - NOT USING main activity com.xiaomi.scanner.app.ScanActivity (from package com.xiaomi.scanner)
+//   - NOT USING main activity com.baidu.baidumaps.WelcomeScreen (from package com.baidu.BaiduMap)
+//   - NOT USING main activity com.baojiazhijia.qichebaojia.SplashActivity (from package com.baojiazhijia.qichebaojia)
+//   - NOT USING main activity com.cubic.autohome.LogoActivity (from package com.cubic.autohome)
+//   - NOT USING main activity com.daimajia.gold.LogoActivity (from package com.daimajia.gold)
+//   - NOT USING main activity com.evernote.ui.HomeActivity (from package com.evernote)
+//   - NOT USING main activity com.osmeta.runtime.OMActivity (from package com.facebook.Origami)
+//   - NOT USING main activity com.sohu.inputmethod.sogou.SogouIMELauncher (from package com.sohu.inputmethod.sogou)
+//   - NOT USING main activity com.xiaomi.jr.CTAActivity (from package com.xiaomi.jr)
+//   - NOT USING main activity com.android.providers.downloads.ui.DownloadList (from package com.android.providers.downloads.ui)
+//   - NOT USING main activity com.android.soundrecorder.SoundRecorder (from package com.android.soundrecorder)
+//   - NOT USING main activity com.android.stk.StkMain (from package com.android.stk)
+//   - NOT USING main activity com.android.updater.MainActivity (from package com.android.updater)
+//   - NOT USING main activity com.miui.bugreport.ui.MainTabActivity (from package com.miui.bugreport)
+//   - NOT USING main activity com.miui.compass.CompassActivity (from package com.miui.compass)
+//   - NOT USING main activity com.miui.player.ui.MusicBrowserActivity (from package com.miui.player)
+//   - NOT USING main activity com.miui.securityscan.MainActivity (from package com.miui.securitycenter)
+//   - NOT USING main activity com.miui.video.HomeActivity (from package com.miui.video)
+//   - NOT USING main activity com.miui.virtualsim.ui.MainActivity (from package com.miui.virtualsim)
+//   - NOT USING main activity com.miui.voiceassist.CTAAlertActivity (from package com.miui.voiceassist)
+//   - NOT USING main activity com.xiaomi.account.ui.AccountSettingsActivity (from package com.xiaomi.account)
+//   - NOT USING main activity com.xiaomi.gamecenter.ui.MainTabActivity (from package com.xiaomi.gamecenter)
+//   - NOT USING main activity cmb.pb.ui.PBInitActivity (from package cmb.pb)
+//   - NOT USING main activity cn.com.open.mooc.index.splash.MCSplashActivity (from package cn.com.open.mooc)
+//   - NOT USING main activity cn.dxy.android.aspirin.ui.activity.StartupActivity (from package cn.dxy.android.aspirin)
+//   - NOT USING main activity cn.wps.moffice.documentmanager.PreStartActivity (from package cn.wps.moffice_eng)
+//   - NOT USING main activity com.apowersoft.mirror.ui.activity.HomeActivity (from package com.apowersoft.mirror)
+//   - NOT USING main activity com.baidu.netdisk.ui.Navigate (from package com.baidu.netdisk)
+//   - NOT USING main activity com.baidu.tieba.LogoActivity (from package com.baidu.tieba)
+//   - NOT USING main activity com.baidu.yuedu.splash.SplashActivity (from package com.baidu.yuedu)
+//   - NOT USING main activity com.clov4r.android.nil.ui.activity.SplashActivity (from package com.clov4r.android.nil)
+//   - NOT USING main activity com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2 (from package com.duokan.phone.remotecontroller)
+//   - NOT USING main activity com.eg.android.AlipayGphone.AlipayLogin (from package com.eg.android.AlipayGphone)
+//   - NOT USING main activity com.estrongs.android.pop.app.openscreenad.NewSplashActivity (from package com.estrongs.android.pop)
+//   - NOT USING main activity com.guokr.zhixing.view.activity.SplashActivity (from package com.guokr.zhixing)
+//   - NOT USING main activity com.handsgo.jiakao.android.splash.Login (from package com.handsgo.jiakao.android)
+//   - NOT USING main activity com.jd.jrapp.WelcomeActivity (from package com.jd.jrapp)
+//   - NOT USING main activity com.jingdong.app.mall.main.MainActivity (from package com.jingdong.app.mall)
+//   - NOT USING main activity com.leju.platform.WelcomActivity (from package com.leju.platform)
+//   - NOT USING main activity com.lemon.faceu.login.LoadingPageActivity (from package com.lemon.faceu)
+//   - NOT USING main activity com.myzaker.ZAKER_Phone.view.LogoActivity (from package com.myzaker.ZAKER_Phone)
+//   - NOT USING main activity com.netease.cloudmusic.activity.LoadingActivity (from package com.netease.cloudmusic)
+//   - NOT USING main activity com.netease.nr.biz.ad.AdActivity (from package com.netease.newsreader.activity)
+//   - NOT USING main activity com.qq.qcloud.activity.WeiyunRootActivity (from package com.qq.qcloud)
+//   - NOT USING main activity com.sankuai.meituan.activity.Welcome (from package com.sankuai.meituan)
+//   - NOT USING main activity com.didi.sdk.app.DidiLoadDexActivity (from package com.sdu.didi.psnger)
+//   - NOT USING main activity com.shanbay.words.startup.SplashActivity (from package com.shanbay.words)
+//   - NOT USING main activity com.sina.weibo.SplashActivity (from package com.sina.weibo)
+//   - NOT USING main activity com.sinovatech.unicom.ui.WelcomeClient (from package com.sinovatech.unicom.ui)
+//   - NOT USING main activity com.ss.android.article.news.activity.SplashActivity (from package com.ss.android.article.news)
+//   - NOT USING main activity com.taobao.tao.welcome.Welcome (from package com.taobao.taobao)
+//   - NOT USING main activity com.play.taptap.ui.MainAct (from package com.taptap)
+//   - NOT USING main activity com.tencent.karaoke.module.splash.ui.SplashBaseActivity (from package com.tencent.karaoke)
+//   - NOT USING main activity com.tencent.mm.ui.LauncherUI (from package com.tencent.mm)
+//   - NOT USING main activity com.tencent.mobileqq.activity.SplashActivity (from package com.tencent.mobileqq)
+//   - NOT USING main activity com.tencent.qqlive.ona.activity.WelcomeActivity (from package com.tencent.qqlive)
+//   - NOT USING main activity com.tmri.app.ui.activity.TmriActivity (from package com.tmri.app.main)
+//   - NOT USING main activity com.xiaomi.bbs.activity.SplashActivity (from package com.xiaomi.bbs)
+//   - NOT USING main activity com.xiaomi.o2o.activity.GuideActivity (from package com.xiaomi.o2o)
+//   - NOT USING main activity com.xiaomi.router.module.splash.SplashActivity (from package com.xiaomi.router)
+//   - NOT USING main activity com.xiaomi.shop.activity.MainTabActivity (from package com.xiaomi.shop)
+//   - NOT USING main activity com.xiaomi.smarthome.SmartHomeMainActivity (from package com.xiaomi.smarthome)
+//   - NOT USING main activity com.yipiao.activity.LaunchActivity (from package com.yipiao)
+//   - NOT USING main activity com.ylmf.androidclient.UI.LogActivity (from package com.ylmf.androidclient)
+//   - NOT USING main activity com.youdao.note.activity2.SplashActivity (from package com.youdao.note)
+//   - NOT USING main activity com.yyw.box.login.LoginActivity (from package com.yyw.box.androidclient)
+//   + Using main activity com.yyw.cloudoffice.UI.user.account.activity.SplashActivity (from package com.yyw.cloudoffice)
+//   - NOT USING main activity com.yyw.proxy.module.user.login.activity.SplashActivity (from package com.yyw.proxy)
+//   - NOT USING main activity com.zhihu.android.app.ui.activity.MainActivity (from package com.zhihu.android)
+//   - NOT USING main activity io.appium.settings.Settings (from package io.appium.settings)
+//   - NOT USING main activity io.appium.unlock.Unlock (from package io.appium.unlock)
+//   - NOT USING main activity io.dcloud.PandoraEntry (from package io.dcloud.H56892B37)
+//   - NOT USING main activity tv.danmaku.bili.ui.splash.SplashActivity (from package tv.danmaku.bili)
+// Selecting main activities from category android.intent.category.MONKEY
+//   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+//   - NOT USING main activity com.mipay.wallet.ui.MipayEntryActivity (from package com.mipay.wallet)
+//   - NOT USING main activity com.miui.home.launcher.Launcher (from package com.miui.home)
+//   - NOT USING main activity com.miui.mipub.ui.cvlist.ConversationListActivity (from package com.miui.mipub)
+//   - NOT USING main activity com.xiaomi.payment.MiliCenterEntryActivity (from package com.xiaomi.payment)
+//   - NOT USING main activity com.miui.virtualsim.monkeyentry.MonkeyActivity (from package com.miui.virtualsim)
+//   - NOT USING main activity com.xiaomi.vip.ui.monkeyentry.MonkeyActivity (from package com.xiaomi.vip)
+//   - NOT USING main activity com.baidu.yuedu.splash.SplashActivity (from package com.baidu.yuedu)
+// Seeded: 1496599416800
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.yyw.cloudoffice/.UI.user.account.activity.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.yyw.cloudoffice/.UI.user.account.activity.SplashActivity } in package com.yyw.cloudoffice
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.yyw.cloudoffice/.UI.user.account.activity.SplashActivity } in package com.yyw.cloudoffice
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 210    // KEYCODE_CALCULATOR
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.miui.calculator/.cal.CalculatorActivity } in package com.miui.calculator
+:Sending Key (ACTION_UP): 210    // KEYCODE_CALCULATOR
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+:Sending Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+Sleeping for 500 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(417.0,220.0)
+:Sending Touch (ACTION_UP): 0:(424.6452,231.18732)
+Sleeping for 500 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(574.0,18.0)
+:Sending Touch (ACTION_UP): 0:(576.88696,21.831766)
+Sleeping for 500 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(662.0,679.0)
+:Sending Touch (ACTION_MOVE): 0:(658.5196,673.5601)
+:Sending Touch (ACTION_MOVE): 0:(650.40485,668.3813)
+:Sending Touch (ACTION_MOVE): 0:(643.1115,664.28937)
+:Sending Touch (ACTION_MOVE): 0:(632.9272,662.51135)
+:Sending Touch (ACTION_MOVE): 0:(625.2904,661.1788)
+:Sending Touch (ACTION_MOVE): 0:(622.01984,656.1283)
+:Sending Touch (ACTION_MOVE): 0:(618.91705,654.0186)
+:Sending Touch (ACTION_MOVE): 0:(616.08624,653.09717)
+:Sending Touch (ACTION_MOVE): 0:(611.9489,652.05597)
+:Sending Touch (ACTION_UP): 0:(608.0932,646.7808)
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+:Sending Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+:Sending Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 500 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(996.0,350.0)
+:Sending Touch (ACTION_UP): 0:(998.7362,350.37698)
+Sleeping for 500 milliseconds
+    // Allowing start of Intent { cmp=com.yyw.cloudoffice/.UI.CommonUI.Activity.ServiceWebActivity } in package com.yyw.cloudoffice
+    // Allowing start of Intent { cmp=com.yyw.cloudoffice/.UI.CommonUI.Activity.ServiceWebActivity } in package com.yyw.cloudoffice
+:Sending Key (ACTION_DOWN): 32    // KEYCODE_D
+:Sending Key (ACTION_UP): 32    // KEYCODE_D
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 19    // KEYCODE_DPAD_UP
+:Sending Key (ACTION_UP): 19    // KEYCODE_DPAD_UP
+Sleeping for 500 milliseconds
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(248.0,1183.0)
+:Sending Touch (ACTION_MOVE): 0:(249.06702,1198.0393)
+:Sending Touch (ACTION_MOVE): 0:(254.72157,1221.7634)
+:Sending Touch (ACTION_MOVE): 0:(255.237,1225.0205)
+:Sending Touch (ACTION_MOVE): 0:(255.78401,1225.2932)
+:Sending Touch (ACTION_MOVE): 0:(263.4869,1234.0887)
+:Sending Touch (ACTION_MOVE): 0:(270.8589,1234.2073)
+:Sending Touch (ACTION_MOVE): 0:(277.93604,1243.2314)
+:Sending Touch (ACTION_UP): 0:(285.08356,1244.2566)
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 132    // KEYCODE_F2
+:Sending Key (ACTION_UP): 132    // KEYCODE_F2
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 4    // KEYCODE_BACK
+:Sending Key (ACTION_UP): 4    // KEYCODE_BACK
+Sleeping for 500 milliseconds
+    // activityResuming(com.yyw.cloudoffice)
+:Sending Key (ACTION_DOWN): 82    // KEYCODE_MENU
+:Sending Key (ACTION_UP): 82    // KEYCODE_MENU
+Sleeping for 500 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(509.0,1733.0)
+:Sending Touch (ACTION_MOVE): 0:(520.1549,1743.984)
+:Sending Touch (ACTION_MOVE): 0:(521.35004,1761.6782)
+:Sending Touch (ACTION_MOVE): 0:(530.6449,1770.3036)
+:Sending Touch (ACTION_MOVE): 0:(541.32764,1772.4966)
+:Sending Touch (ACTION_MOVE): 0:(551.80096,1775.2532)
+:Sending Touch (ACTION_MOVE): 0:(559.43,1788.4677)
+:Sending Touch (ACTION_MOVE): 0:(560.4101,1798.5977)
+:Sending Touch (ACTION_MOVE): 0:(566.68585,1815.5232)
+:Sending Touch (ACTION_MOVE): 0:(567.7432,1828.6846)
+:Sending Touch (ACTION_UP): 0:(575.5326,1836.8763)
+Sleeping for 500 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(594.0,1110.0)
+:Sending Touch (ACTION_UP): 0:(593.69995,1114.6273)
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 21    // KEYCODE_DPAD_LEFT
+:Sending Key (ACTION_UP): 21    // KEYCODE_DPAD_LEFT
+Sleeping for 500 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(400.0,1716.0)
+:Sending Touch (ACTION_UP): 0:(406.66016,1724.0298)
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 20    // KEYCODE_DPAD_DOWN
+:Sending Key (ACTION_UP): 20    // KEYCODE_DPAD_DOWN
+Sleeping for 500 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(827.0,1653.0)
+:Sending Touch (ACTION_POINTER_DOWN 1): 0:(820.25354,1651.295) 1:(135.0,1375.0)
+:Sending Touch (ACTION_POINTER_UP 1): 0:(806.4842,1638.2823) 1:(128.83865,1363.1405)
+:Sending Touch (ACTION_UP): 0:(805.39496,1625.6943)
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 23    // KEYCODE_DPAD_CENTER
+:Sending Key (ACTION_UP): 23    // KEYCODE_DPAD_CENTER
+Sleeping for 500 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(1040.0,599.0)
+:Sending Touch (ACTION_UP): 0:(1046.4032,617.791)
+Sleeping for 500 milliseconds
+    // Allowing start of Intent { cmp=com.yyw.cloudoffice/.UI.user.contact.activity.ContactReviewActivity } in package com.yyw.cloudoffice
+    // Allowing start of Intent { cmp=com.yyw.cloudoffice/.UI.user.contact.activity.ContactReviewActivity } in package com.yyw.cloudoffice
+:Sending Touch (ACTION_DOWN): 0:(747.0,266.0)
+:Sending Touch (ACTION_MOVE): 0:(743.34875,251.8344)
+:Sending Touch (ACTION_UP): 0:(740.19354,249.10556)
+Sleeping for 500 milliseconds
+:Sending Touch (ACTION_DOWN): 0:(296.0,64.0)
+:Sending Touch (ACTION_MOVE): 0:(295.15808,64.98894)
+:Sending Touch (ACTION_MOVE): 0:(293.62207,65.86671)
+:Sending Touch (ACTION_MOVE): 0:(292.3138,66.06326)
+:Sending Touch (ACTION_MOVE): 0:(290.9732,74.243774)
+:Sending Touch (ACTION_MOVE): 0:(290.62796,77.068474)
+:Sending Touch (ACTION_UP): 0:(289.71844,78.80649)
+Sleeping for 500 milliseconds
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+Sleeping for 500 milliseconds
+:Sending Key (ACTION_DOWN): 64    // KEYCODE_EXPLORER
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+Events injected: 100
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=1 rotations=0
+## Network stats: elapsed time=15600ms (0ms mobile, 0ms wifi, 15600ms not connected)
+// Monkey finished
