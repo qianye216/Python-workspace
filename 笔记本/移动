@@ -1,0 +1,3 @@
+shutil模块move方法
+
+shutil.move(source,destination)

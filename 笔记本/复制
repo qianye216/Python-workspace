@@ -1,0 +1,9 @@
+shutil模块
+
+#复制文件
+shutil.copy(source,destination)，将路径source处的文件复制到路径destination处的文件夹
+source和destination都是字符串
+
+#复制整个文件夹
+
+shutil.copytree(source，destination)
