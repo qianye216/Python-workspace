@@ -1,4 +1,10 @@
-supplies = ['pens','staplers','flame-throwers','binders']
-for i in range(len(supplies)):
-    print('index'+str(i)+'in supplies is'+supplies[i])
-def
+import pytest
+
+
+def f():
+    raise SystemExit(1)
+
+
+def test_mytest():
+    with pytest.raises(SystemExit):
+        f()

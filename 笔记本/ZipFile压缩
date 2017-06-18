@@ -1,0 +1,7 @@
+读取zip文件的内容
+首先需要创建一个ZipFile对象，调用zipfile.ZipFile()函数
+ZipFile对象有一个namelist()方法
+ZipFile对象的getinfo()方法返回关于特定文件的ZipInfo对象
+file_size 、compress_size方法分别表示原来文件大小和压缩后文件大小
+extractall()方法从zip文件解压缩所有文件和文件夹到当前目录中
+extract()方法从zip文件解压单个文件
