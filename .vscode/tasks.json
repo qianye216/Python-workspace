@@ -9,7 +9,7 @@
 
     
     "version": "0.1.0",
-    "command": "/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5",
+    "command": "/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6",
     "isShellCommand": true,
     "args": ["${file}"],
     "showOutput": "always",
