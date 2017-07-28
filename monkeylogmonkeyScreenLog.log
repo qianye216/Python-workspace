@@ -6,7 +6,7 @@
 //   - NOT USING main activity com.android.browser.BrowserActivity (from package com.android.browser)
 //   - NOT USING main activity com.android.calendar.homepage.AllInOneActivity (from package com.android.calendar)
 //   - NOT USING main activity com.android.camera.Camera (from package com.android.camera)
-//   - NOT USING main activity com.android.contacts.activities.PeopleActivity (from package com.android.contacts)
+//   - NOT USING main ctivity com.android.contacts.activities.PeopleActivity (from package com.android.contacts)
 //   - NOT USING main activity com.android.contacts.activities.TwelveKeyDialer (from package com.android.contacts)
 //   - NOT USING main activity com.android.deskclock.DeskClockTabActivity (from package com.android.deskclock)
 //   - NOT USING main activity com.android.email.activity.Welcome (from package com.android.email)
