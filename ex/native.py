@@ -10,8 +10,8 @@ class MyTestCase(unittest.TestCase):
         desired_caps['platformName'] = 'Android'
         desired_caps['platformVersion'] = '7.0'
         desired_caps['deviceName'] = 'b2aada47'
-        desired_caps['appPackage'] = 'com.miui.calculator'
-        desired_caps['appActivity'] = '.cal.CalculatorActivity'
+        desired_caps['appPackage'] = 'com.yyw.cloudoffice'
+        desired_caps['appActivity'] = '.UI.user.account.activity.SplashActivity'
         desired_caps["unicodeKeyboard"] = "True"
         desired_caps["resetKeyboard"] = "True"
         self.driver = webdriver.Remote(
@@ -22,7 +22,7 @@ class MyTestCase(unittest.TestCase):
              #测试的脚本, LOVE原则
     def testAdd(self):
         # Locate 定位一个元素
-        number8 = self.driver.find_element_by_id("btn_8")
+        number8 = self.driver.find_element_by_android_uiautomator
         # Operate 操作一个元素
         number8.click()
         # Locate 定位一个元素
