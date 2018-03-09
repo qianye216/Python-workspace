@@ -1,0 +1,48 @@
+1517213550011	geckodriver	INFO	geckodriver 0.19.1
+1517213550016	geckodriver	INFO	Listening on 127.0.0.1:54397
+1517213551093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4k/68mf14qn3gx0pb4wt6hg6p7r0000gn/T/rust_mozprofile.J5xqq10Smgck"
+1517213551583	Marionette	INFO	Enabled via --marionette
+2018-01-29 16:12:32.385 plugin-container[27776:3299758] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15003, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1517213552762	Marionette	INFO	Listening on port 54403
+1517213552873	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-01-29 16:12:33.316 plugin-container[27778:3299954] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517213713394	geckodriver	INFO	geckodriver 0.19.1
+1517213713399	geckodriver	INFO	Listening on 127.0.0.1:55112
+1517213713470	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4k/68mf14qn3gx0pb4wt6hg6p7r0000gn/T/rust_mozprofile.EeutvvU1rtFj"
+1517213713931	Marionette	INFO	Enabled via --marionette
+2018-01-29 16:15:14.732 plugin-container[27942:3309600] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1517213715107	Marionette	INFO	Listening on port 55117
+1517213715133	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-01-29 16:15:15.643 plugin-container[27943:3309754] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=25638_1469_21126_17001&csor=2&pwd=s&cb=jQuery110205951710962918837_1517213716083&_=1517213716086, line 1: TypeError: jQuery110205951710962918837_1517213716083 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=25638_1469_21126_17001&csor=1&cb=jQuery110205951710962918837_1517213716083&_=1517213716085, line 1: TypeError: jQuery110205951710962918837_1517213716083 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=25638_1469_21126_17001&csor=3&pwd=se&cb=jQuery110205951710962918837_1517213716083&_=1517213716087, line 1: TypeError: jQuery110205951710962918837_1517213716083 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=25638_1469_21126_17001&csor=7&pwd=seleni&cb=jQuery110205951710962918837_1517213716083&_=1517213716091, line 1: TypeError: jQuery110205951710962918837_1517213716083 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=25638_1469_21126_17001&csor=4&pwd=sel&cb=jQuery110205951710962918837_1517213716083&_=1517213716088, line 1: TypeError: jQuery110205951710962918837_1517213716083 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=25638_1469_21126_17001&csor=8&pwd=seleniu&cb=jQuery110205951710962918837_1517213716083&_=1517213716092, line 1: TypeError: jQuery110205951710962918837_1517213716083 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=25638_1469_21126_17001&csor=6&pwd=selen&cb=jQuery110205951710962918837_1517213716083&_=1517213716090, line 1: TypeError: jQuery110205951710962918837_1517213716083 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=25638_1469_21126_17001&csor=5&pwd=sele&cb=jQuery110205951710962918837_1517213716083&_=1517213716089, line 1: TypeError: jQuery110205951710962918837_1517213716083 is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517214055226	geckodriver	INFO	geckodriver 0.19.1
+1517214055231	geckodriver	INFO	Listening on 127.0.0.1:55553
+1517214056310	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/4k/68mf14qn3gx0pb4wt6hg6p7r0000gn/T/rust_mozprofile.2BimXtqkSgDZ"
+1517214056831	Marionette	INFO	Enabled via --marionette
+2018-01-29 16:20:57.635 plugin-container[28026:3320642] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1517214058039	Marionette	INFO	Listening on port 55559
+1517214058073	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-01-29 16:20:58.566 plugin-container[28027:3320809] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1446_13701_21119_18560_20927&sugId=c1017d530000d5fd6&cb=jQuery1102007767853684923065_1517214058950&_=1517214058957, line 1: TypeError: jQuery1102007767853684923065_1517214058950 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1446_13701_21119_18560_20927&sugId=c1017d530000d5fd4&cb=jQuery1102007767853684923065_1517214058950&_=1517214058955, line 1: TypeError: jQuery1102007767853684923065_1517214058950 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1446_13701_21119_18560_20927&sugId=c1017d530000d5fd5&cb=jQuery1102007767853684923065_1517214058950&_=1517214058956, line 1: TypeError: jQuery1102007767853684923065_1517214058950 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1446_13701_21119_18560_20927&sugId=c1017d530000d5fd8&cb=jQuery1102007767853684923065_1517214058950&_=1517214058959, line 1: TypeError: jQuery1102007767853684923065_1517214058950 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1446_13701_21119_18560_20927&sugId=c1017d530000d5fd7&cb=jQuery1102007767853684923065_1517214058950&_=1517214058958, line 1: TypeError: jQuery1102007767853684923065_1517214058950 is not a function
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
